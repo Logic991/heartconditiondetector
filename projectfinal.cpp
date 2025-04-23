@@ -163,8 +163,8 @@ int main() {
 
     // Load ECG data from files for two people
     //will have to change according to location of files
-    person1.loadData("C:\\Users\\metin\\Downloads\\a\\person1.txt");
-    person2.loadData("C:\\Users\\metin\\Downloads\\a\\person2.txt");
+    person1.loadData("person1.txt");
+    person2.loadData("person2.txt");//this and the line above may be have to specialized for the user's computer.
 
     // Process the ECG data for both persons and save individual results
     processPersonData(person1, "Person-1");

@@ -1,0 +1,2 @@
+Bradycardia detected between peaks at 1.7595 and 5.752
+Bradycardia detected between peaks at 5.75625 and 9.755

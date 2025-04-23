@@ -1,0 +1,16 @@
+Normal heart rate detected between peaks at 0.592125 and 1.57462
+Normal heart rate detected between peaks at 1.59187 and 2.57812
+Normal heart rate detected between peaks at 2.59163 and 3.57788
+Normal heart rate detected between peaks at 3.59025 and 4.57725
+Normal heart rate detected between peaks at 4.5855 and 5.577
+Normal heart rate detected between peaks at 5.58488 and 6.57675
+Normal heart rate detected between peaks at 6.59025 and 7.5765
+Normal heart rate detected between peaks at 7.59 and 8.57625
+Normal heart rate detected between peaks at 8.58413 and 9.57563
+Normal heart rate detected between peaks at 9.58837 and 10.5754
+Normal heart rate detected between peaks at 10.5889 and 11.5751
+Normal heart rate detected between peaks at 11.5886 and 12.5749
+Normal heart rate detected between peaks at 12.582 and 13.5742
+Normal heart rate detected between peaks at 13.5829 and 14.574
+**************
+Normal heart rate detected between peaks at 9.49725 and 10.1907
